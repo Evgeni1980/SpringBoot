@@ -51,7 +51,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
-
+SpringBoot/HomeWork_4/target
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
